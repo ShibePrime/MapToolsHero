@@ -1,1 +1,1 @@
-web: java -Dserver.port=$PORT $JAVA_OPTS -jar maptool.jar
+web: java -Dserver.port=$PORT $JAVA_OPTS -jar target/maptool.jar
